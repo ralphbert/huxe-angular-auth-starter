@@ -1,6 +1,8 @@
-# RouterExample
+# HUXE Angular Auth Starter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This is a simple auth starter project based in Angular.
+
+It contains a mock auth service and route guards.
 
 ## Development server
 
